@@ -8,5 +8,6 @@
   <description>Portfolio</description>
   <modules>
   	<module>portfolio-web</module>
+  	<module>portfolio-domain</module>
   </modules>
 </project>
